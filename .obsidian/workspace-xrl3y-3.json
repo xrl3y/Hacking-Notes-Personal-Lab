@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "6b005aa63728d248",
+    "type": "split",
+    "children": [
+      {
+        "id": "3365f05f548a3de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082e4cd513fd6de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introducción a las Vulnerabilidades 🦟/Tipos de Explotaciones/sqlmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97d5cb75842f362b",
+    "type": "split",
+    "children": [
+      {
+        "id": "12fee7d3129b3cac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb599859304fc802",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e9d9a1099c93499",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a97efed738617ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "992e88c53f226f7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f339c519b76e67b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d685242b27f063d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introducción a las Vulnerabilidades 🦟/Tipos de Explotaciones/sqlmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c4fe32af325a157",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introducción a las Vulnerabilidades 🦟/Tipos de Explotaciones/sqlmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "101a64a4279264a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e10316353b7059da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introducción a las Vulnerabilidades 🦟/Tipos de Explotaciones/sqlmap.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "082e4cd513fd6de7",
+  "lastOpenFiles": [
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Explotaciones/Explotaciones Manuales.md",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Explotaciones/Explotaciones Automatizadas.md",
+    "Introducción a las Vulnerabilidades 🦟/burpsuite/burpsuite.md",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Explotaciones/sqlmap.md",
+    "Introducción a las Vulnerabilidades 🦟/burpsuite",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Payload/Staged.md",
+    "Tareas ✔️.md",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Payload/rlwrap.md",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Explotaciones",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Payload/Non-Staged.md",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Payload/NetCat Listener.md",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Payload/MsfVenom.md",
+    "m.md",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Shell/Blind Shell.md",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Payload",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Shell/Forward Shell.md",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Shell/Reverse Shell.md",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Shell/Concepto.md",
+    "Gestores de Contenido 🌐/WordPress/xmrlpc.md",
+    "Introducción a las Vulnerabilidades 🦟/Tipos de Shell",
+    "Introducción a las Vulnerabilidades 🦟",
+    "Gestores de Contenido 🌐/Herramientas 🛠️.md",
+    "Gestores de Contenido 🌐/INDICE 📄.md",
+    "Pasted image 20240914195005.png",
+    "Pasted image 20240914194902.png",
+    "Gestores de Contenido 🌐/WordPress/WpScan.md",
+    "Gestores de Contenido 🌐/WordPress/xmlrpc.md",
+    "Gestores de Contenido 🌐/WordPress/WordPress.md",
+    "Bienvenido.md",
+    "Gestores de Contenido 🌐/Drupal",
+    "Gestores de Contenido 🌐/Joomlav",
+    "Gestores de Contenido 🌐/Magento",
+    "Gestores de Contenido 🌐/WordPress",
+    "W"
+  ]
+}

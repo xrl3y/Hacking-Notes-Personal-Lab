@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "6b005aa63728d248",
+    "type": "split",
+    "children": [
+      {
+        "id": "09d6e3c99404c149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5edcf49775918d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Explotacion/2.1 Vulnerabilidades/2.1.1 OWASP TOP 10 y vulnerabilidades web/Abuso de APIs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abuso de APIs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97d5cb75842f362b",
+    "type": "split",
+    "children": [
+      {
+        "id": "12fee7d3129b3cac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb599859304fc802",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "9e9d9a1099c93499",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "2a97efed738617ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5
+  },
+  "right": {
+    "id": "992e88c53f226f7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f339c519b76e67b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d685242b27f063d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introducción a las Vulnerabilidades 🦟/OWASP TOP 10 y vulnerabilidades web/Enumeración y explotación de Json Web Tokens (JWT).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Enumeración y explotación de Json Web Tokens (JWT)"
+            }
+          },
+          {
+            "id": "6c4fe32af325a157",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introducción a las Vulnerabilidades 🦟/OWASP TOP 10 y vulnerabilidades web/Enumeración y explotación de Json Web Tokens (JWT).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Enumeración y explotación de Json Web Tokens (JWT)"
+            }
+          },
+          {
+            "id": "101a64a4279264a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e10316353b7059da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introducción a las Vulnerabilidades 🦟/OWASP TOP 10 y vulnerabilidades web/Enumeración y explotación de Json Web Tokens (JWT).md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Enumeración y explotación de Json Web Tokens (JWT)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a5edcf49775918d8",
+  "lastOpenFiles": [
+    "2. Explotacion/2.1 Vulnerabilidades/2.1.1 OWASP TOP 10 y vulnerabilidades web/Enumeración y explotación de WebDAV.md",
+    "6. Payloads y Exploits/Msf Venom/1. MsfVenom.md",
+    "6. Payloads y Exploits/Msf Venom/2. MsfVenom - Puesta en Escucha.md",
+    "6. Payloads y Exploits/Msf Venom/3. Msf Venom Non-Staged.md",
+    "6. Payloads y Exploits/Msf Venom/4. Msf Venom Staged.md",
+    "8. Comandos Comunes - Linux/ssh.md",
+    "4. Herramientas Hacking y C2/NetCat.md",
+    "4. Herramientas Hacking y C2/rlwrap.md",
+    "7. Shell/1. Concepto de Shell.md",
+    "5. Encriptacion y Hashing/URL Encode.md",
+    "Obsidian - Mejores Comandos.md",
+    "4. Herramientas Hacking y C2/Sqlmap 2.md",
+    "4. Herramientas Hacking y C2/sqlmap.md",
+    "4. Herramientas Hacking y C2/burpsuite.md",
+    "4. Herramientas Hacking y C2/Metasploit.md",
+    "3. Escalada de Privilegios/Python Library Hijacking.md",
+    "3. Escalada de Privilegios/PATH Hijacking.md",
+    "3. Escalada de Privilegios/Explotación del Kernel.md",
+    "3. Escalada de Privilegios/Abusando de privilegios SUID.md",
+    "3. Escalada de Privilegios/Detección y explotación de tareas Cron.md",
+    "3. Escalada de Privilegios/Docker Breakout.md",
+    "3. Escalada de Privilegios/Abusando de privilegios a nivel de Sudoers.md",
+    "7. Shell/2. Reverse Shell.md",
+    "7. Shell/3. Blind Shell.md",
+    "7. Shell/4. Forward Shell.md",
+    "7. Shell/5. Tratamiento de la tty.md",
+    "8. Comandos Comunes - Linux",
+    "4. Herramientas Hacking y C2/Sin nombre",
+    "6. Payloads y Exploits/Msf Venom",
+    "6. Payloads y Exploits",
+    "5. Encriptacion y Hashing",
+    "2. Explotacion/2.1 Vulnerabilidades",
+    "2. Explotacion",
+    "1. Enumeracion",
+    "IMAGENES/Pasted image 20240925184240.png",
+    "IMAGENES/Pasted image 20240925183905.png",
+    "IMAGENES/Pasted image 20240925183202.png",
+    "IMAGENES/Pasted image 20241108175540.png",
+    "IMAGENES/Pasted image 20241108175437.png",
+    "IMAGENES/Pasted image 20241108175336.png",
+    "IMAGENES/Pasted image 20241108174501.png",
+    "IMAGENES/Pasted image 20241108173830.png",
+    "IMAGENES/Pasted image 20241103234136.png",
+    "IMAGENES/Pasted image 20241103233702.png",
+    "4. Herramientas Hacking y C2",
+    "2. Explotacion/2.1 Vulnerabilidades/2.1.2 Buffer Overflow",
+    "Sin título.canvas"
+  ]
+}
