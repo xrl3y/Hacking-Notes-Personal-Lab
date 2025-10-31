@@ -3,7 +3,7 @@
 #vulnerabilidad #sql #mariadb
 
 ---------
-Primeramente para entender el coonceoptp de las sqli tenemos que instalarnbosa estas bibliotecas con el sigfuiente ocmando :
+Primeramente para entender el concepto de las sqli tenemos que instalarnos estas bibliotecas con el siguiente comando :
 
 ```bash
  sudo apt install mariadb-server apache2 php-mysql
